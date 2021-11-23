@@ -31,8 +31,14 @@ namespace TodoApi
 
             services.AddControllers();
 
-            services.AddDbContext<TodoContext>(opt =>
-                                               opt.UseInMemoryDatabase("TodoList"));
+            //Orig In Memory DB
+            //services.AddDbContext<TodoContext>(opt =>
+            //                                   opt.UseInMemoryDatabase("TodoList"));
+
+            //Added for sql server
+            services.AddDbContext<TodoContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("TodoContext")));
+
             //services.AddSwaggerGen(c =>
             //{
             //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "TodoApi", Version = "v1" });

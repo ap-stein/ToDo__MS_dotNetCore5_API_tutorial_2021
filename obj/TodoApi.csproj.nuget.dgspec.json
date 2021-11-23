@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj": {}
+    "G:\\__NEW_201810\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "G:\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj": {
+    "G:\\__NEW_201810\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "G:\\__NEW_201810\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "G:\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\a_ste\\.nuget\\packages\\",
-        "outputPath": "G:\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\obj\\",
+        "projectPath": "G:\\__NEW_201810\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
+        "outputPath": "G:\\__NEW_201810\\computer\\dotNet\\tutorials\\.NetCoreWebAPI_fromMS\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\a_ste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

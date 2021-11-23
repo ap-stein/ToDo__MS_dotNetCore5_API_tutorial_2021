@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = TodoApi
+build_property.ProjectDir = G:\__NEW_201810\computer\dotNet\tutorials\.NetCoreWebAPI_fromMS\TodoApi\
