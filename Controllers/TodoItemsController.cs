@@ -94,7 +94,7 @@ namespace TodoApi.Controllers
         {
             var todoItem = new TodoItem
             {
-                IsComplete = todoItemDTO.IsComplete,
+                IsComplete = (bool)todoItemDTO.IsComplete,
                 Name = todoItemDTO.Name
             };
 
